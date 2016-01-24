@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinOB", "WinOB\WinOB.csproj", "{0B434E5E-A608-4B1B-986C-3582634A705B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EBB03EAD-CB90-4AB3-AEA9-CEB4A31DE57E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinOBService", "..\WinOBService\WinOBService\WinOBService.csproj", "{065A901E-3C55-4CE9-B6FF-44A19D1EC846}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,10 @@ Global
 		{0B434E5E-A608-4B1B-986C-3582634A705B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B434E5E-A608-4B1B-986C-3582634A705B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B434E5E-A608-4B1B-986C-3582634A705B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065A901E-3C55-4CE9-B6FF-44A19D1EC846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065A901E-3C55-4CE9-B6FF-44A19D1EC846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065A901E-3C55-4CE9-B6FF-44A19D1EC846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065A901E-3C55-4CE9-B6FF-44A19D1EC846}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
